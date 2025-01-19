@@ -1,4 +1,4 @@
-# Deep Q-Learning for Lunar Lander
+# Deep Q-Learning Lunar Lander
 
 ## Project Overview
 This project implements a Deep Q-Learning agent to successfully land a lunar module using the OpenAI Gym environment `LunarLander-v3`. The agent is trained to optimize its landing strategy through reinforcement learning, specifically using the Deep Q-Network (DQN) approach.
