@@ -72,7 +72,6 @@ Below is a video demonstrating the trained agent's performance in landing the lu
 
 <video width="600" controls>
   <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ## Google Colab Notebook
