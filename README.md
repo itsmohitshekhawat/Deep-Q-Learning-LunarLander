@@ -69,7 +69,7 @@ The agent is trained over 2000 episodes, with the average score computed over th
 
 ## Demonstration Video
 Below is a video demonstrating the trained agent's performance in landing the lunar module:
-[![Watch the video](video.mp4)](https://github.com/itsmohitshekhawat/Deep-Q-Learning-LunarLander/blob/main/video.mp4)
+https://github.com/user-attachments/assets/1c474f2b-dac4-46f4-8d85-edf58fb9c2cb
 
 ## Google Colab Notebook
 The Google Colab notebook containing the full implementation and training process can be found [here](deep_q_learning_lunar_lander.ipynb).
